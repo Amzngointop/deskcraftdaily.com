@@ -3,7 +3,7 @@ export const siteConfig = {
   domain: 'deskcraftdaily.com',
   url: 'https://deskcraftdaily.com',
   email: 'info@deskcraftdaily.com',
-  affiliateTag: 'YOURTAG-20',
+  affiliateTag: 'deskcraftdail-20',
   description: 'Expert home office desk setup and ergonomics reviews for remote workers.',
   niche: 'Home Office Desk Setup & Ergonomics',
   geo: 'USA',

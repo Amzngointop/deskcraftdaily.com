@@ -26,7 +26,7 @@ export const products: Product[] = [
     rank: 1,
     name: 'HUANUO FlowLift Dual Monitor Stand',
     asin: 'B07T5SY43L',
-    affiliateUrl: 'https://www.amazon.com/dp/B07T5SY43L?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/HUANUO-Dual-Monitor-Stand-Adjustable/dp/B07T5SY43L?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=ff781f33fbc87be58375fa9681b7b639&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/7182jSFV25L._AC_SL1500_.jpg',
     badge: 'Best Overall',
     summary:
@@ -56,7 +56,7 @@ export const products: Product[] = [
     rank: 2,
     name: 'ErGear Single Monitor Arm 13–34 Inch',
     asin: 'B0FQM6QB48',
-    affiliateUrl: 'https://www.amazon.com/dp/B0FQM6QB48?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/ErGear-Adjustable-Tool-Free-Management-100x100mm/dp/B0FQM6QB48?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=44638eb89942643a0b9e3f7070f65d65&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61oPmBDjQEL._AC_SL1500_.jpg',
     badge: 'Best Value',
     summary:
@@ -86,7 +86,7 @@ export const products: Product[] = [
     rank: 3,
     name: 'HUANUO FlowLift Single Monitor Mount',
     asin: 'B07T3KCQ94',
-    affiliateUrl: 'https://www.amazon.com/dp/B07T3KCQ94?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Single-Monitor-Mount-Articulating-Adjustable/dp/B07T3KCQ94?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=d2d75787c1485e3c464767efab6b7a12&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61k4fefKv1L._AC_SL1500_.jpg',
     badge: "Editor's Pick",
     summary:
@@ -116,7 +116,7 @@ export const products: Product[] = [
     rank: 4,
     name: 'VIVO Dual Monitor Desk Mount 30 Inch',
     asin: 'B009S750LA',
-    affiliateUrl: 'https://www.amazon.com/dp/B009S750LA?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/VIVO-Monitor-Adjustable-Screens-STAND-V002/dp/B009S750LA?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=a57a9e307e181ecbcdff12a6f0a71324&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71MzRgGoXUL._AC_SL1500_.jpg',
     badge: 'Most Reliable',
     summary:
@@ -146,7 +146,7 @@ export const products: Product[] = [
     rank: 5,
     name: 'BESIGN LS03 Aluminum Laptop Stand',
     asin: 'B08BRCT4JH',
-    affiliateUrl: 'https://www.amazon.com/dp/B08BRCT4JH?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/BESIGN-Aluminum-Ergonomic-Detachable-Compatible/dp/B08BRCT4JH?&linkCode=ll2&tag=deskcraftdail-20&linkId=975e1a848faef64930862add74b1ebae&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71G8rdQin3L._AC_SL1500_.jpg',
     badge: 'Best Laptop Stand',
     summary:
@@ -176,7 +176,7 @@ export const products: Product[] = [
     rank: 6,
     name: 'Tonmom Adjustable Laptop Stand Foldable',
     asin: 'B08G84P8ZX',
-    affiliateUrl: 'https://www.amazon.com/dp/B08G84P8ZX?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Adjustable-Silicone-Foldable-Ventilated-Tablet-Black/dp/B08G84P8ZX?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=f4817df85fa07ff38fb715516a78e82e&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61O3uGg2MJL._AC_SL1500_.jpg',
     badge: 'Best Budget',
     summary:
@@ -208,7 +208,7 @@ export const products: Product[] = [
     rank: 1,
     name: 'BestOffice Mid-Back Ergonomic Desk Chair',
     asin: 'B0FQDM23S4',
-    affiliateUrl: 'https://www.amazon.com/dp/B0FQDM23S4?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/BestOffice-Ergonomic-Office-Chair-Breathable/dp/B0FQDM23S4?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=11d7edc7cc65036939477a331c28698b&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71pJG761-UL._AC_SL1447_.jpg',
     badge: "Editor's Pick",
     summary:
@@ -238,7 +238,7 @@ export const products: Product[] = [
     rank: 2,
     name: 'TRALT Ergonomic Mesh Office Chair with Lumbar',
     asin: 'B0CQD3K8PJ',
-    affiliateUrl: 'https://www.amazon.com/dp/B0CQD3K8PJ?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/TRALT-Office-Chair-Adjustable-Comfortable/dp/B0CQD3K8PJ?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=4a7d5459be0ae0eeb3e889485c3414b2&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71LWhgxJCaL._AC_SL1500_.jpg',
     badge: 'Best Value',
     summary:
@@ -268,7 +268,7 @@ export const products: Product[] = [
     rank: 3,
     name: 'NEO CHAIR Ergonomic Mesh Chair Ivory',
     asin: 'B0FJW7M21Q',
-    affiliateUrl: 'https://www.amazon.com/dp/B0FJW7M21Q?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/NEO-Computer-Ergonomic-Support-Adjustable/dp/B0FJW7M21Q?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=1d7c0d9b7af4116b9106bbc983ae9388&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/81aGr8HsLKL._AC_SL1500_.jpg',
     badge: "Editor's Pick",
     summary:
@@ -298,7 +298,7 @@ export const products: Product[] = [
     rank: 4,
     name: 'TRALT Heavy Duty Mesh Chair 330 LBS',
     asin: 'B0CG6V2XGS',
-    affiliateUrl: 'https://www.amazon.com/dp/B0CG6V2XGS?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/TRALT-Office-Ergonomic-Chairs-Comfortable/dp/B0CG6V2XGS?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=b3b96e5606e439c1faa6b871d6c70348&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/81OW9VpP4qL._AC_SL1500_.jpg',
     badge: 'Best for Big & Tall',
     summary:
@@ -328,7 +328,7 @@ export const products: Product[] = [
     rank: 5,
     name: 'NEO CHAIR Ergonomic Mesh Gaming Chair Black',
     asin: 'B0FXGB6L96',
-    affiliateUrl: 'https://www.amazon.com/dp/B0FXGB6L96?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/NEO-CHAIR-Chair-Mesh-Adjustable/dp/B0FXGB6L96?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=3d1363eb507ba6d0163366e4deb1cb92&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71UDi7iTZ8L._AC_SL1500_.jpg',
     badge: 'Most Versatile',
     summary:
@@ -358,7 +358,7 @@ export const products: Product[] = [
     rank: 6,
     name: 'Marsail High Back Mesh Chair with Headrest',
     asin: 'B0CP22DQQS',
-    affiliateUrl: 'https://www.amazon.com/dp/B0CP22DQQS?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Marsail-Ergonomic-Office-Chair-Adjustable/dp/B0CP22DQQS?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=0c7286c98cfaa69c8b76a8f73fec035f&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/712kZm3lUrL._AC_SL1500_.jpg',
     badge: 'Best Premium',
     summary:
@@ -390,7 +390,7 @@ export const products: Product[] = [
     rank: 1,
     name: 'ErGear 48x24 Electric Standing Desk Black',
     asin: 'B0B41YH9B6',
-    affiliateUrl: 'https://www.amazon.com/dp/B0B41YH9B6?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/ErGear-Adjustable-Electric-Standing-Computer/dp/B0B41YH9B6?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=d50b17a08f950adae169c716379937ff&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/718KkXOCktL._AC_SL1500_.jpg',
     badge: 'Top Performer',
     summary:
@@ -420,7 +420,7 @@ export const products: Product[] = [
     rank: 2,
     name: 'Veken 55 Inch Large Electric Standing Desk White',
     asin: 'B0DWMNPW7D',
-    affiliateUrl: 'https://www.amazon.com/dp/B0DWMNPW7D?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Veken-Electric-Standing-Adjustable-Computer/dp/B0DWMNPW7D?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=eb698c36e6aadb127acaae0b98f644bb&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61tvhGirBlL._AC_SL1500_.jpg',
     badge: 'Best Large Desk',
     summary:
@@ -450,7 +450,7 @@ export const products: Product[] = [
     rank: 3,
     name: 'DUMOS 40 Inch Electric Standing Desk White',
     asin: 'B0G3X3ZSK4',
-    affiliateUrl: 'https://www.amazon.com/dp/B0G3X3ZSK4?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/DUMOS-Electric-Standing-Adjustable-Workstations/dp/B0G3X3ZSK4?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=b825331546bc393d5da94d1989a52224&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61+zEkYPikL._AC_SL1500_.jpg',
     badge: 'Best Compact',
     summary:
@@ -480,7 +480,7 @@ export const products: Product[] = [
     rank: 4,
     name: 'Claiks 48x24 Electric Standing Desk Rustic Brown',
     asin: 'B0BZ7GXM4M',
-    affiliateUrl: 'https://www.amazon.com/dp/B0BZ7GXM4M?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Claiks-Electric-Standing-Adjustable-Height/dp/B0BZ7GXM4M?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=13e41b23e209f21edfa879633fec9f5f&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71LMMCG-7hL._AC_SL1500_.jpg',
     badge: 'Best Style',
     summary:
@@ -510,7 +510,7 @@ export const products: Product[] = [
     rank: 5,
     name: 'FEZIBO 48x24 Electric Standing Desk Maple',
     asin: 'B0F8MHPVPH',
-    affiliateUrl: 'https://www.amazon.com/dp/B0F8MHPVPH?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/FEZIBO-Standing-Electric-Adjustable-Computer/dp/B0F8MHPVPH?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=eae9e738bc05ed2907961c18d5811686&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71smFjr2QgL._AC_SL1500_.jpg',
     badge: "Editor's Pick",
     summary:
@@ -540,7 +540,7 @@ export const products: Product[] = [
     rank: 6,
     name: 'VIVO 60x24 Electric Standing Desk Black',
     asin: 'B07V6ZSHF4',
-    affiliateUrl: 'https://www.amazon.com/dp/B07V6ZSHF4?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/VIVO-Adjustable-Workstation-Controller-DESK-KIT-1B6B/dp/B07V6ZSHF4?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=909f8ec4fae78edaf5415fce7f86381c&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71SGsi5l+uL._AC_SL1500_.jpg',
     badge: 'Best Heavy Duty',
     summary:
@@ -572,7 +572,7 @@ export const products: Product[] = [
     rank: 1,
     name: 'Acer USB Hub 4 Ports USB 3.0 with Type-C Power',
     asin: 'B0CN3F9Y1Z',
-    affiliateUrl: 'https://www.amazon.com/dp/B0CN3F9Y1Z?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Multiple-Splitter-Laptop-Extender-Windows/dp/B0CN3F9Y1Z?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=ecec45fe437a48b6e5f118ba2e4f363a&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61FFBZwEvtL._AC_SL1500_.jpg',
     badge: 'Best Budget',
     summary:
@@ -602,7 +602,7 @@ export const products: Product[] = [
     rank: 2,
     name: 'Anker USB Hub 4 Ports USB 3.0 Ultra-Slim',
     asin: 'B07L32B9C2',
-    affiliateUrl: 'https://www.amazon.com/dp/B07L32B9C2?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Anker-Transfer-Ultra-Slim-Charging-Supported/dp/B07L32B9C2?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=4e28158432f5e4714b85540d5b1c303b&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/51+U60trRlL._AC_SL1100_.jpg',
     badge: 'Most Reliable',
     summary:
@@ -632,7 +632,7 @@ export const products: Product[] = [
     rank: 3,
     name: 'Anker USB-C Hub 5-in-1 with 4K HDMI',
     asin: 'B0BQLLB61B',
-    affiliateUrl: 'https://www.amazon.com/dp/B0BQLLB61B?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Anker-Display-MacBook-Thinkpad-Laptops/dp/B0BQLLB61B?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=95124c2cef3147623350f4e6e98a759a&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/615HRY2dnML._AC_SL1500_.jpg',
     badge: 'Best for MacBook',
     summary:
@@ -662,7 +662,7 @@ export const products: Product[] = [
     rank: 4,
     name: 'Anker 8-in-1 Dual Monitor Docking Station',
     asin: 'B0874M3KW4',
-    affiliateUrl: 'https://www.amazon.com/dp/B0874M3KW4?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Anker-PowerExpand-Adapter-Delivery-Ethernet/dp/B0874M3KW4?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=f1bcaea4e321b4eaaee9759e76a4fa7d&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71S-NPBF-qL._AC_SL1500_.jpg',
     badge: 'Best Overall',
     summary:
@@ -692,7 +692,7 @@ export const products: Product[] = [
     rank: 5,
     name: '14-in-1 USB-C Docking Station Triple Display',
     asin: 'B0CRDHM89Y',
-    affiliateUrl: 'https://www.amazon.com/dp/B0CRDHM89Y?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Docking-Station-Monitors-Thunderbolt-Ethernet/dp/B0CRDHM89Y?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=4a00d381670d18923587b912fbe9cb13&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/81Es8IjXthL._AC_SL1500_.jpg',
     badge: 'Most Ports',
     summary:
@@ -722,7 +722,7 @@ export const products: Product[] = [
     rank: 6,
     name: 'Acer 9-in-1 USB-C Docking Station Dual HDMI',
     asin: 'B0DW85W3FV',
-    affiliateUrl: 'https://www.amazon.com/dp/B0DW85W3FV?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Docking-Station-Monitor-Charging-Compatible/dp/B0DW85W3FV?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=f8b576db4a91d862dd64d40d2d693e22&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71JAtc2LSoL._AC_SL1500_.jpg',
     badge: "Editor's Pick",
     summary:
@@ -754,7 +754,7 @@ export const products: Product[] = [
     rank: 1,
     name: 'Soundcore Q20i Hybrid ANC Headphones',
     asin: 'B0C3HCD34R',
-    affiliateUrl: 'https://www.amazon.com/dp/B0C3HCD34R?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/soundcore-Cancelling-Headphones-Bluetooth-Transparency/dp/B0C3HCD34R?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=4d444e394920c600a739186c82675129&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/51CnDMbXZzL._AC_SL1200_.jpg',
     badge: 'Best Value',
     summary:
@@ -784,7 +784,7 @@ export const products: Product[] = [
     rank: 2,
     name: 'Beats Studio Pro Wireless ANC Headphones Black',
     asin: 'B0C8PR4W22',
-    affiliateUrl: 'https://www.amazon.com/dp/B0C8PR4W22?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Beats-Studio-Pro-Personalized-Compatibility/dp/B0C8PR4W22?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=08f4a979b2c3a6117b9c06094e164f8b&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61u-OaDSfQL._AC_SL1500_.jpg',
     badge: 'Best Premium',
     summary:
@@ -814,7 +814,7 @@ export const products: Product[] = [
     rank: 3,
     name: 'BERIBES 65H Bluetooth Over-Ear Headphones',
     asin: 'B09LYF2ST7',
-    affiliateUrl: 'https://www.amazon.com/dp/B09LYF2ST7?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/BERIBES-Bluetooth-Headphones-Microphone-Lightweight/dp/B09LYF2ST7?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=36fefd4ea1e1ce15d02484f123fd7c3e&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71F2ccIPPLL._AC_SL1500_.jpg',
     badge: 'Best Battery Life',
     summary:
@@ -844,7 +844,7 @@ export const products: Product[] = [
     rank: 4,
     name: 'JBL Tune 720BT Wireless Over-Ear Headphones',
     asin: 'B0CTBCDD6D',
-    affiliateUrl: 'https://www.amazon.com/dp/B0CTBCDD6D?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/JBL-TUNE-720BT-Lightweight-comfortable/dp/B0CTBCDD6D?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=74078f1ac372fe308255bd5e95c6c9b7&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61EL2AKKcBL._AC_SL1500_.jpg',
     badge: "Editor's Pick",
     summary:
@@ -874,7 +874,7 @@ export const products: Product[] = [
     rank: 5,
     name: 'JLab JBuds Lux ANC Over-Ear Headphones',
     asin: 'B0CRM4Q1W1',
-    affiliateUrl: 'https://www.amazon.com/dp/B0CRM4Q1W1?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/JLab-Headphones-Cancelling-Customizable-Compatible/dp/B0CRM4Q1W1?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=69b0720290eeb0df6e21d573b0cf4d63&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71QnEVdncYL._AC_SL1500_.jpg',
     badge: 'Best Overall',
     summary:
@@ -904,7 +904,7 @@ export const products: Product[] = [
     rank: 6,
     name: 'KVIDIO 65H Bluetooth Over-Ear Headphones',
     asin: 'B09BF64J55',
-    affiliateUrl: 'https://www.amazon.com/dp/B09BF64J55?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Bluetooth-Headphones-KVIDIO-Microphone-Lightweight/dp/B09BF64J55?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=db10510d375bfbe90a7ef0546aa47082&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71Hx8b6HGbL._AC_SL1500_.jpg',
     badge: 'Best Budget',
     summary:
@@ -936,7 +936,7 @@ export const products: Product[] = [
     rank: 1,
     name: 'Wireless Keyboard Mouse Combo Avocado Green Silent',
     asin: 'B0DDT75R2R',
-    affiliateUrl: 'https://www.amazon.com/dp/B0DDT75R2R?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Wireless-Keyboard-Full-Sized-Adjustable-Receiver/dp/B0DDT75R2R?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=beaa0ae4c0a968d0330e60fb2a0d1dbc&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71vulVx1+8L._AC_SL1500_.jpg',
     badge: 'Most Unique',
     summary:
@@ -966,7 +966,7 @@ export const products: Product[] = [
     rank: 2,
     name: 'Silent Ergonomic Wireless Keyboard and Mouse Full Size',
     asin: 'B0DLBD36HL',
-    affiliateUrl: 'https://www.amazon.com/dp/B0DLBD36HL?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Wireless-Keyboard-Ergonomic-Lag-Free-Cordless/dp/B0DLBD36HL?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=d8fb9bebd06dd893d991219ff6b8b64d&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61CaBkGgWfL._AC_SL1500_.jpg',
     badge: 'Best Overall',
     summary:
@@ -996,7 +996,7 @@ export const products: Product[] = [
     rank: 3,
     name: 'MARVO Ergonomic Wireless Keyboard with Phone Holder',
     asin: 'B09P33RWFJ',
-    affiliateUrl: 'https://www.amazon.com/dp/B09P33RWFJ?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Wireless-Keyboard-MARVO-Ergonomic-Compatible/dp/B09P33RWFJ?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=9cd4963fbec3c5022a486c48a1e5f113&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61L3R6nVQeL._AC_SL1500_.jpg',
     badge: 'Most Versatile',
     summary:
@@ -1026,7 +1026,7 @@ export const products: Product[] = [
     rank: 4,
     name: 'Wave Keys Ergonomic Wireless Combo with Wrist Rest',
     asin: 'B0DX791FXY',
-    affiliateUrl: 'https://www.amazon.com/dp/B0DX791FXY?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Wireless-Keyboard-Ergonomic-3-Level-Adjustable/dp/B0DX791FXY?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=97cb00673f577f59f98d543929e1d078&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/719wr0vElYL._AC_SL1500_.jpg',
     badge: 'Best Ergonomic',
     summary:
@@ -1056,7 +1056,7 @@ export const products: Product[] = [
     rank: 5,
     name: 'Logitech MK335 Quiet Wireless Combo Black Silver',
     asin: 'B072JX77X6',
-    affiliateUrl: 'https://www.amazon.com/dp/B072JX77X6?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Logitech-13004-MK335/dp/B072JX77X6?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=8ab9323cbdbdb19ce1a7c459eb7bfd54&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/5110JBRA1-L._AC_SL1459_.jpg',
     badge: 'Most Reliable',
     summary:
@@ -1086,7 +1086,7 @@ export const products: Product[] = [
     rank: 6,
     name: 'Logitech MK270 Wireless Keyboard and Mouse Combo',
     asin: 'B079JLY5M5',
-    affiliateUrl: 'https://www.amazon.com/dp/B079JLY5M5?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Logitech-MK270-Wireless-Keyboard-Mouse/dp/B079JLY5M5?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=5c56661646c5ab1512380d52b8729c87&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61+aByx2jML._AC_SL1500_.jpg',
     badge: 'Best Budget',
     summary:
@@ -1118,7 +1118,7 @@ export const products: Product[] = [
     rank: 1,
     name: 'gianotter 4-Tier Desk Organizer with Drawer Rose Gold',
     asin: 'B0BWTT3WK1',
-    affiliateUrl: 'https://www.amazon.com/dp/B0BWTT3WK1?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/gianotter-Organizer-Accessories-Workspace-Organizers/dp/B0BWTT3WK1?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=ae255637a807a755c74853b33db113da&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/81iE5xG2+pL._AC_SL1500_.jpg',
     badge: 'Staff Favorite',
     summary:
@@ -1148,7 +1148,7 @@ export const products: Product[] = [
     rank: 2,
     name: 'OPNICE 4-Tier Desktop File Organizer with Drawer Black',
     asin: 'B0BYDGF8DT',
-    affiliateUrl: 'https://www.amazon.com/dp/B0BYDGF8DT?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/OPNICE-Organizers-Accessories-Workspace-Organizer/dp/B0BYDGF8DT?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=aee64fe59bb37875d3cf1be2d2ea8baa&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/81CYxEUhq-L._AC_SL1500_.jpg',
     badge: 'Best Value',
     summary:
@@ -1178,7 +1178,7 @@ export const products: Product[] = [
     rank: 3,
     name: 'M&G Mesh Pen Holder 3 Compartments with Notes Holder',
     asin: 'B0CQP9LYXC',
-    affiliateUrl: 'https://www.amazon.com/dp/B0CQP9LYXC?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Holder-Organizers-Pencil-Compartments-Organizer/dp/B0CQP9LYXC?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=25f881abbbb2f54b44f59bedc769f88a&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71Yp3uUlCbL._AC_SL1500_.jpg',
     badge: 'Best Compact',
     summary:
@@ -1208,7 +1208,7 @@ export const products: Product[] = [
     rank: 4,
     name: 'WALI 4-Tier Desktop Paper Letter Tray with Drawer',
     asin: 'B0GN1TZZ9W',
-    affiliateUrl: 'https://www.amazon.com/dp/B0GN1TZZ9W?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/WALI-Organizer-Accessories-Organizers-DO005DH-B/dp/B0GN1TZZ9W?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=f6b47a60916911576a80248e233e6971&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71JWbs5XYdL._AC_SL1500_.jpg',
     badge: "Editor's Pick",
     summary:
@@ -1238,7 +1238,7 @@ export const products: Product[] = [
     rank: 5,
     name: 'Amazon Basics Mesh Pen Holder Desktop Organizer',
     asin: 'B08VP72ZNS',
-    affiliateUrl: 'https://www.amazon.com/dp/B08VP72ZNS?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Amazon-Basics-Mesh-Pen-Holder/dp/B08VP72ZNS?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=396afa6bfb2ffbe8e412c1a1caf03155&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/91uQK7BqWpS._AC_SL1500_.jpg',
     badge: 'Best Budget',
     summary:
@@ -1268,7 +1268,7 @@ export const products: Product[] = [
     rank: 6,
     name: 'Simple Trending 7-Tier Desk File Organizer with Basket',
     asin: 'B07R7FZ6RG',
-    affiliateUrl: 'https://www.amazon.com/dp/B07R7FZ6RG?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Simple-Trending-Organizer-Vertical-Document/dp/B07R7FZ6RG?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=04f71729a35a358e10f0bda1e0df3935&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/91AUT7AZwJL._AC_SL1500_.jpg',
     badge: 'Most Storage',
     summary:
@@ -1300,7 +1300,7 @@ export const products: Product[] = [
     rank: 1,
     name: 'livho Advanced Blue Light Blocking Computer Glasses',
     asin: 'B07W781XWF',
-    affiliateUrl: 'https://www.amazon.com/dp/B07W781XWF?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Blocking-Glasses-Computer-Reading-Eyestrain/dp/B07W781XWF?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=2f5dc76f5d0054aa2d15f269430cec94&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/7126GsYr5dL._AC_SL1500_.jpg',
     badge: 'Most Tested',
     summary:
@@ -1330,7 +1330,7 @@ export const products: Product[] = [
     rank: 2,
     name: 'Gaoye Blue Light Glasses for Women Transparent',
     asin: 'B085XGKBDT',
-    affiliateUrl: 'https://www.amazon.com/dp/B085XGKBDT?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Gaoye-Blocking-Computer-Eyeglasses-Transparent/dp/B085XGKBDT?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=606b076b7f0a6839826b7983c55d0d58&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71I1G4+twLL._AC_SL1500_.jpg',
     badge: 'Best for Women',
     summary:
@@ -1360,7 +1360,7 @@ export const products: Product[] = [
     rank: 3,
     name: 'Gaoye Blue Light Blocking Square Glasses for Men',
     asin: 'B0D9HRSR11',
-    affiliateUrl: 'https://www.amazon.com/dp/B0D9HRSR11?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Blue-Light-Blocking-Glasses-Eyeglasses/dp/B0D9HRSR11?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=0e42413f250dd0955e2b9228fea4e42f&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71rWignilsL._AC_SX569_.jpg',
     badge: 'Best for Men',
     summary:
@@ -1390,7 +1390,7 @@ export const products: Product[] = [
     rank: 4,
     name: 'Gaoye Clear Blue Light Gaming Glasses Scratch-Resistant',
     asin: 'B0CY8Q76LT',
-    affiliateUrl: 'https://www.amazon.com/dp/B0CY8Q76LT?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Gaoye-Blue-Light-Blocking-Glasses/dp/B0CY8Q76LT?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=1df6db4f45591739ebd60596e03d2527&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/71OqDP3Hr+L._AC_SL1500_.jpg',
     badge: 'Best for Gaming',
     summary:
@@ -1420,7 +1420,7 @@ export const products: Product[] = [
     rank: 5,
     name: 'Oilway Blue Light Blocking Fashion Glasses Unisex',
     asin: 'B0B2R4NR2F',
-    affiliateUrl: 'https://www.amazon.com/dp/B0B2R4NR2F?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/Oilway-Blue-Light-Blocking-Computer-Eyestrain/dp/B0B2R4NR2F?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=85155d8bb095f4486fdc4186a6bd7009&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/61dmpT4OwnL._AC_SL1500_.jpg',
     badge: 'Most Stylish',
     summary:
@@ -1450,7 +1450,7 @@ export const products: Product[] = [
     rank: 6,
     name: 'TIJN Sleep Glasses Blue Green Light Blocking Red Lens',
     asin: 'B0DHGMBZ36',
-    affiliateUrl: 'https://www.amazon.com/dp/B0DHGMBZ36?tag=YOURTAG-20',
+    affiliateUrl: 'https://www.amazon.com/TIJN-Blocking-Coatings-Computer-Eyestrain/dp/B0DHGMBZ36?th=1&linkCode=ll2&tag=deskcraftdail-20&linkId=fcb19715c56a2aa55883013ea00320c4&language=en_US&ref_=as_li_ss_tl',
     imageUrl: 'https://m.media-amazon.com/images/I/51PiyDXjiXL._AC_SL1500_.jpg',
     badge: 'Best for Sleep',
     summary:
